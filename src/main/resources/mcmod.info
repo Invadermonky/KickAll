@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kickall",
+  "name": "KickAll",
+  "description": "Adds a command that kicks all players from a server.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Invadermonky"],
+  "credits": "Authors of this project",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
