@@ -8,7 +8,6 @@ import net.minecraft.server.MinecraftServer;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 
-@SideOnly(Side.SERVER)
 public class KickAllCommand extends CommandBase {
     @Override
     public String getName() {

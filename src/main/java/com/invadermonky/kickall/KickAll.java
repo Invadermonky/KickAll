@@ -12,7 +12,7 @@ import net.minecraftforge.fml.common.event.FMLServerStartingEvent;
 public class KickAll {
     public static final String MOD_ID = "kickall";
     public static final String MOD_NAME = "KickAll";
-    public static final String MOD_VERSION = "1.12.2-1.0.0";
+    public static final String MOD_VERSION = "1.12.2-1.0.1";
     public static final String MC_VERSIONS = "[1.12.2]";
 
     @Mod.Instance
